@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,31,32&height=220&section=header&" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,31,32&height=100&section=header&" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Srimanikanta+Narayanam;Full-Stack+Developer;React+%26+Node.js+Specialist" alt="Typing SVG" />
