@@ -18,20 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,31,32&height=100&section=header&" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Srimanikanta+Narayanam;Full-Stack+Developer;React+%26+Node.js+Specialist" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/srimanikanta-narayanam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srimani0723@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/srimani0723">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Srimanikanta+Narayanam;Full-Stack+Developer;React+%26+Node.js+Specialist" alt="Typing SVG" />
 </p>
 
 ---
@@ -80,6 +69,23 @@ Here are some ideas to get you started:
 
 ---
 
+## 🤙📞 Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/srimanikanta-narayanam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:srimani0723@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/srimani0723">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,31,32&height=100&section=footer" width="100%" />
 </p>
+
